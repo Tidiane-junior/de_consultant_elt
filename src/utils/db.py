@@ -1,6 +1,6 @@
-import os
-import psycopg2
-from dotenv import load_dotenv
+import os # gére les chemins de fichiers et les variables d'environnement
+import psycopg2 # postgresql adapter pour python
+from dotenv import load_dotenv # pour charger les variables d'environnement depuis le fichier .env
 
 # Charge les variables d'environnement depuis .env
 load_dotenv()
