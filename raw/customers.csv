@@ -1,0 +1,21 @@
+customer_id,customer_name,email,signup_date,city,country
+customer_1,John Doe,john.doe@example.com,2024-01-15,Paris,FRANCE
+customer_2,Jane Smith,jane.smith@example.com,2024-01-16,Los Angeles,USA
+customer_3,Bob Johnson,bob.johnson@example.com,2024-01-17,Chicago,USA
+customer_4,Alice Williams,alice.williams@example.com,2024-01-18,Houston,USA
+customer_5,Michael Brown,michael.brown@example.com,2024-01-19,Phoenix,USA
+customer_6,Emily Davis,emily.davis@example.com,2024-01-20,New York,USA
+customer_7,David Wilson,david.wilson@example.com,2024-01-21,Toronto,CANADA
+customer_8,Sarah Miller,sarah.miller@example.com,2024-01-22,Vancouver,CANADA
+customer_9,Chris Moore,chrismoore@example.com,2024-01-23,Seattle,USA
+customer_10,Ashley Taylor,ashley.taylor@example.com,2024-01-24,Miami,USA
+customer_11,Daniel Anderson,daniel.anderson@example.com,2024-01-25,Boston,USA
+customer_12,Megan Thomas,megan.thomas@example.com,2024-01-26,BORDEAUX,FRANCE
+customer_13,James Jackson,james.jackson@example.com,2024-01-27,LYON,FRANCE
+customer_14,Olivia White,olivia.white@example.com,2024-01-28,Marseille,FRANCE
+customer_15,Andrew Harris,andrew.harris@example.com,2024-01-29,LILLE,FRANCE
+customer_16,Sophia Martin,sophia.martin@example.com,2024-01-30,Minneapolis,USA
+customer_17,Joshua Thompson,joshua.thompson@example.com,2024-01-31,Ottawa,CANADA
+customer_18,Isabella Garcia,isabella.garcia@example.com,2024-02-01,New Orleans,USA
+customer_19,Matthew Martinez,matthew.martinez@example.com,2024-02-02,Dallas,USA
+customer_20,Abigail Robinson,abigail.robinson@example.com,2024-02-03,San Francisco,USA

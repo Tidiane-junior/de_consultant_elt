@@ -1,0 +1,32 @@
+product_id,product_name,category,weight_kg,price
+product_1,Keyboard,Electronics,0.8,50
+product_2,Mouse,Electronics,0.2,25
+product_3,Screen,Electronics,3.5,200
+product_4,Laptop,Electronics,2.5,1200
+product_5,Headphones,Electronics,0.5,100
+product_6,Webcam,Electronics,0.3,80
+product_7,Microphone,Electronics,0.4,150
+product_8,USB Hub,Electronics,0.1,40
+product_9,External Hard Drive,Electronics,0.4,150
+product_10,Monitor Stand,Electronics,1.2,70
+product_11,Speakers,Electronics,2.0,120
+product_12,Graphics Tablet,Electronics,1.0,300
+product_13,Router,Electronics,0.6,90
+product_14,Smartphone,Electronics,0.3,800
+product_15,Tablet,Electronics,0.4,400
+product_16,Charger,Electronics,0.2,30
+product_17,Power Bank,Electronics,0.5,60
+product_18,Smartwatch,Electronics,0.1,250
+product_19,Fitness Tracker,Electronics,0.1,150
+product_20,Earbuds,Electronics,0.05,80
+product_21,VR Headset,Electronics,1.5,500
+product_22,Gaming Console,Electronics,3.0,400
+product_23,Smart TV,Electronics,8.0,1000
+product_24,Projector,Electronics,4.0,600
+product_25,Soundbar,Electronics,2.5,200
+product_26,Camera,Electronics,1.0,700
+product_27,Lens,Electronics,0.3,300
+product_28,Tripod,Electronics,1.5,100
+product_29,Memory Card,Electronics,0.02,50
+product_30,Bluetooth Speaker,Electronics,0.7,150
+product_31,Streaming Device,Electronics,0.4,120
