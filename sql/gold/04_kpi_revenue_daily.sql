@@ -22,6 +22,7 @@ BEGIN
                 FROM silver.orders
                 GROUP BY order_date::date
                 ORDER BY day;
+            $q$;
         END IF;    
     END IF;
 END $$;
